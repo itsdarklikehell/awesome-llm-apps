@@ -21,7 +21,16 @@ Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source mode
   <img src="https://trendshift.io/api/badge/repositories/9876" width="220" alt="Featured on Trendshift as the #1 repository of the day">
 </a>
 
-<br>
+</div>
+
+<div align="center">
+
+## 📽️ Project Evolution
+
+<a href="https://raw.githubusercontent.com/itsdarklikehell/awesome-llm-apps/main/gource-compressed.mp4">
+  <img src="https://raw.githubusercontent.com/itsdarklikehell/awesome-llm-apps/main/gource-compressed.mp4" width="100%" alt="Gource visualization of awesome-llm-apps repository evolution" style="border-radius:8px;">
+</a>
+<p align="center"><sub><a href="https://raw.githubusercontent.com/itsdarklikehell/awesome-llm-apps/main/gource-compressed.mp4">Watch full video (22MB)</a> — 1,258 commits visualized</sub></p>
 
 </div>
 
