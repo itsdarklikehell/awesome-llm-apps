@@ -8,6 +8,13 @@
 
 # Awesome LLM Apps
 
+[![CI](https://github.com/itsdarklikehell/awesome-llm-apps/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-llm-apps/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-llm-apps/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-llm-apps/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-llm-apps)](https://github.com/itsdarklikehell/awesome-llm-apps/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-llm-apps)](https://github.com/itsdarklikehell/awesome-llm-apps/pulls)
+
+
 **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.**
 
 Clone it, ship it, sell it - 100% free and open-source
